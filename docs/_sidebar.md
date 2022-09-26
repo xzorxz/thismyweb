@@ -1,5 +1,5 @@
 * 小张的秘密仓库
-  * [Home](/)
+  * [Home](README.md)
 * [Guide](guide.md)
 
 * 移动web
